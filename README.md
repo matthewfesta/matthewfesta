@@ -1,9 +1,9 @@
 # 💫About Me :
 I am teacher pivoting to software development. 
 
-🔭 I’m currently working on ... personal projects and a masters in computer science.  
+🔭 I’m currently working on ... various personal projects, studying using different resources and techniques.  
 
-🌱 I’m currently learning ... Java, OOP principles, advanced algorithms and data structures.  
+🌱 I’m currently learning ... Java, OOP principles, algorithms and data structures.   
 
 👯 I’m looking to collaborate on ... open source projects, intersections of education and technology, edTech, etc.  
 
