@@ -1,12 +1,18 @@
 # 💫About Me :
 I am teacher pivoting to software development. 
 
-🔭 I’m currently working on ... personal projects and a masters in computer science. 
-🌱 I’m currently learning ... Java, OOP principles, advanced algorithms and data structures. 
-👯 I’m looking to collaborate on ... open source projects, intersections of education and technology, edTech, etc.
-🤔 I’m looking for help with ... networking with other developers and mentoring! 
-💬 Ask me about ... how software developers can better equip students and teachers for learning
-📫 How to reach me: ... connect with me below!
+🔭 I’m currently working on ... personal projects and a masters in computer science.  
+
+🌱 I’m currently learning ... Java, OOP principles, advanced algorithms and data structures.  
+
+👯 I’m looking to collaborate on ... open source projects, intersections of education and technology, edTech, etc.  
+
+🤔 I’m looking for help with ... networking with other developers and mentoring!  
+
+💬 Ask me about ... how software developers can better equip students and teachers for learning.   
+
+📫 How to reach me: ... connect with me on LinkedIn below!   
+
 ⚡ Fun fact: ... I've climbed two volcanoes. 
 
 ## 🌐Socials
