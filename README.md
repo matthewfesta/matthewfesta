@@ -1,9 +1,10 @@
 # 💫About Me :
-I am teacher pivoting to software development. 
 
-🔭 I’m currently working on ... various personal projects, studying using different resources and techniques.  
+I am an educator pivoting to software development. 
 
-🌱 I’m currently learning ... Java, OOP principles, algorithms and data structures.   
+🔭 I’m currently working on ... challenging myself by getting my MS in Computer Science with a concentration in Software Engineering. 
+
+🌱 I’m currently learning ... Languages: Python and Java. Also, bettering my understanding of algorithms and data structures.   
 
 👯 I’m looking to collaborate on ... open source projects, intersections of education and technology, edTech, etc.  
 
@@ -29,4 +30,7 @@ I am teacher pivoting to software development.
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ---
+
+<a href="https://app.daily.dev/devmatthewfesta"><img src="https://api.daily.dev/devcards/258320979eaf4049a10b77c49e1be35d.png?r=zyg" width="400" alt="Matthew Festa's Dev Card"/></a>
+
 [![](https://visitcount.itsvg.in/api?id=matthewfesta&icon=0&color=1)](https://visitcount.itsvg.in)
