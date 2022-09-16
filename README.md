@@ -16,6 +16,15 @@ I am an educator pivoting to software development.
 
 ⚡ Fun fact: ... I've climbed two volcanoes. 
 
+
+Here are links to some of my most recent projects: 
+
+[CLI Naval Battle Game in Python](https://github.com/matthewfesta/Naval-Battle)
+
+[Sample Web Server Parser in Java](https://github.com/matthewfesta/WebServerProject)
+
+[Banking Program in Java](https://github.com/matthewfesta/BasicJavaBankProgram)
+
 ## 🌐Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mtfesta) 
 
