@@ -19,6 +19,8 @@ I am an educator pivoting to software development.
 
 Here are links to some of my most recent projects: 
 
+[Mock iOS calculator using HTML/CSS/ and Vanilla Javascript](https://matthewfesta.github.io/Calculator/)
+
 [CLI Web Scraper App in Python](https://github.com/matthewfesta/Web-Scraper)
 
 [CLI Naval Battle Game in Python](https://github.com/matthewfesta/Naval-Battle)
