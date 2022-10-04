@@ -4,7 +4,7 @@ I am an educator pivoting to software development.
 
 🔭 I’m currently working on ... challenging myself by getting my MS in Computer Science with a concentration in Software Engineering. 
 
-🌱 I’m currently learning ... Languages: Python and Java. Also, bettering my understanding of algorithms and data structures.   
+🌱 I’m currently learning ... Python, Java, and React.js.   
 
 👯 I’m looking to collaborate on ... open source projects, intersections of education and technology, edTech, etc.  
 
@@ -18,6 +18,8 @@ I am an educator pivoting to software development.
 
 
 Here are links to some of my most recent projects: 
+
+[Wordle Clone using HTML/CSS/ Vanilla Javascript and AJAX](https://matthewfesta.github.io/Wordle-Clone/)
 
 [Mock iOS calculator using HTML/CSS/ and Vanilla Javascript](https://matthewfesta.github.io/Calculator/)
 
