@@ -1,6 +1,6 @@
 # 💫About Me :
 
-I am an educator pivoting to software development. 
+I am a software developer with a background in education. 
 
 🔭 I’m currently working on ... challenging myself by getting my MS in Computer Science with a concentration in Software Engineering. 
 
