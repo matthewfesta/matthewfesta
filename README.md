@@ -19,6 +19,8 @@ I am an educator pivoting to software development.
 
 Here are links to some of my most recent projects: 
 
+[Movie Finder Web App using HTML/CSS/Javascript, React and AJAX - note: click the magnifying glass to search](https://matthewfesta.github.io/FlixFinder/) 
+
 [Wordle Clone using HTML/CSS/ Vanilla Javascript and AJAX](https://matthewfesta.github.io/Wordle-Clone/)
 
 [Mock iOS calculator using HTML/CSS/ and Vanilla Javascript](https://matthewfesta.github.io/Calculator/)
