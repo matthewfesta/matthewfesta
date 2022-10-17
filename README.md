@@ -22,6 +22,8 @@ More projects are below.
 
 Here are links to some of my most recent projects: 
 
+[A clone of the Netflix Website using React and AJAX. Click on a movie poster to play trailer. Note: If images don't render, try incognito mode or another browser. Originally hosted on Firebase.](https://matthewfesta.github.io/netflix-clone/) 
+
 [Movie Finder Web App using HTML/CSS/Javascript, React and AJAX - note: click the magnifying glass to search](https://matthewfesta.github.io/FlixFinder/) 
 
 [Wordle Clone using HTML/CSS/ Vanilla Javascript and AJAX](https://matthewfesta.github.io/Wordle-Clone/)
