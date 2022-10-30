@@ -5,9 +5,9 @@ I am a software developer with a background in education.
 [Here's a link to a portfolio of some of my work using mobile-first principles](https://matthewfesta.github.io/Portfolio/)
 More projects are below. 
 
-🔭 I’m currently working on ... challenging myself by getting my MS in Computer Science with a concentration in Software Engineering. 
+🔭 I’m currently working on ... A full stack tech ticket web app and challenging myself by getting my MS in Computer Science with a concentration in Software Engineering. 
 
-🌱 I’m currently learning ... Python, Java, and React.js.   
+🌱 I’m currently learning ... The MERN stack, Python/Django/Flask, Java/Spring.   
 
 👯 I’m looking to collaborate on ... open source projects, intersections of education and technology, edTech, etc.  
 
