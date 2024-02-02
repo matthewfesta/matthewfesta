@@ -2,8 +2,6 @@
 
 I am a full stack software engineer with an emphasis in backend development and with a background in education. 
 
-[Here's a link to a portfolio of some of my work using mobile-first principles](https://matthewfesta.github.io/Portfolio/)
-More projects are below. 
 
 🔭 I’m currently working on ... developing my knowledge of backend frameworks.   
 
@@ -16,25 +14,6 @@ More projects are below.
 📫 How to reach me: ... connect with me on LinkedIn below!   
 
 ⚡ Fun fact: ... I've climbed two volcanoes. 
-
-
-Here are links to some of my most recent projects: 
-
-[A clone of the Netflix Website using React and AJAX. Click on a movie poster to play trailer. Note: If images don't render, try incognito mode or another browser. Originally hosted on Firebase.](https://matthewfesta.github.io/netflix-clone/) 
-
-[Movie Finder Web App using HTML/CSS/Javascript, React and AJAX - note: click the magnifying glass to search](https://matthewfesta.github.io/FlixFinder/) 
-
-[Wordle Clone using HTML/CSS/ Vanilla Javascript and AJAX](https://matthewfesta.github.io/Wordle-Clone/)
-
-[Mock iOS calculator using HTML/CSS/ and Vanilla Javascript](https://matthewfesta.github.io/Calculator/)
-
-[CLI Web Scraper App in Python](https://github.com/matthewfesta/Web-Scraper)
-
-[CLI Naval Battle Game in Python](https://github.com/matthewfesta/Naval-Battle)
-
-[Sample Web Server Parser in Java](https://github.com/matthewfesta/WebServerProject)
-
-[Banking Program in Java](https://github.com/matthewfesta/BasicJavaBankProgram)
 
 
 ## 🌐Socials
