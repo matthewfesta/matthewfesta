@@ -1,5 +1,5 @@
 # 💫 About Me:
-Full stack software engineer with a backend emphasis and a background in teaching.
+Full stack software engineer with a backend emphasis and a background in teaching. Lover of languages both programming and natural. 
 
 
 ## 🌐 Socials:
